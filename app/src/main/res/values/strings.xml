@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">XTable</string>
+    <string name="XTable">XTable</string>
+    <string name="number_of_questions">Number of Questions</string>
+
+    <string name="first">10</string>
+    <string name="second">20</string>
+    <string name="third">30</string>
+    <string name="custom">customize</string>
+
+    <string name="button">Button</string>
+    <string name="question">Question</string>
+    <string name="customize">How many questions would you like?</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+
+    <string name="play_again">Play Again</string>
+    <string name="exit">Exit</string>
+
+
+
+    <string name="question_1">0 x 0</string>
+    <string name="question_2">0 x 1</string>
+    <string name="question_3">0 x 2</string>
+    <string name="question_4">0 x 3</string>
+    <string name="question_5">0 x 4</string>
+    <string name="question_6">0 x 5</string>
+    <string name="question_7">0 x 6</string>
+    <string name="question_8">0 x 7</string>
+    <string name="question_9">0 x 8</string>
+    <string name="question_10">0 x 9</string>
+    <string name="question_11">0 x 10</string>
+    <string name="question_12">0 x 11</string>
+    <string name="question_13">0 x 12</string>
+
+    <string name="question_14">1 x 1</string>
+    <string name="question_15">1 x 2</string>
+    <string name="question_16">1 x 3</string>
+    <string name="question_17">1 x 4</string>
+    <string name="question_18">1 x 5</string>
+    <string name="question_19">1 x 6</string>
+    <string name="question_20">1 x 7</string>
+    <string name="question_21">1 x 8</string>
+    <string name="question_22">1 x 9</string>
+    <string name="question_23">1 x 10</string>
+    <string name="question_24">1 x 11</string>
+    <string name="question_25">1 x 12</string>
+
+    <string name="question_26">2 x 2</string>
+    <string name="question_27">2 x 3</string>
+    <string name="question_28">2 x 4</string>
+    <string name="question_29">2 x 5</string>
+    <string name="question_30">2 x 6</string>
+    <string name="question_31">2 x 7</string>
+    <string name="question_32">2 x 8</string>
+    <string name="question_33">2 x 9</string>
+    <string name="question_34">2 x 10</string>
+    <string name="question_35">2 x 11</string>
+    <string name="question_36">2 x 12</string>
+
+    <string name="question_37">3 x 3</string>
+    <string name="question_38">3 x 4</string>
+    <string name="question_39">3 x 5</string>
+    <string name="question_40">3 x 6</string>
+    <string name="question_41">3 x 7</string>
+    <string name="question_42">3 x 8</string>
+    <string name="question_43">3 x 9</string>
+    <string name="question_44">3 x 10</string>
+    <string name="question_45">3 x 11</string>
+    <string name="question_46">3 x 12</string>
+
+    <string name="question_47">4 x 4</string>
+    <string name="question_48">4 x 5</string>
+    <string name="question_49">4 x 6</string>
+    <string name="question_50">4 x 7</string>
+    <string name="question_51">4 x 8</string>
+    <string name="question_52">4 x 9</string>
+    <string name="question_53">4 x 10</string>
+    <string name="question_54">4 x 11</string>
+    <string name="question_55">4 x 12</string>
+
+    <string name="question_56">5 x 5</string>
+    <string name="question_57">5 x 6</string>
+    <string name="question_58">5 x 7</string>
+    <string name="question_59">5 x 8</string>
+    <string name="question_60">5 x 9</string>
+    <string name="question_61">5 x 10</string>
+    <string name="question_62">5 x 11</string>
+    <string name="question_63">5 x 12</string>
+
+    <string name="question_64">6 x 6</string>
+    <string name="question_65">6 x 7</string>
+    <string name="question_66">6 x 8</string>
+    <string name="question_67">6 x 9</string>
+    <string name="question_68">6 x 10</string>
+    <string name="question_69">6 x 11</string>
+    <string name="question_70">6 x 12</string>
+
+    <string name="question_71">7 x 7</string>
+    <string name="question_72">7 x 8</string>
+    <string name="question_73">7 x 9</string>
+    <string name="question_74">7 x 10</string>
+    <string name="question_75">7 x 11</string>
+    <string name="question_76">7 x 12</string>
+
+    <string name="question_77">8 x 8</string>
+    <string name="question_78">8 x 9</string>
+    <string name="question_79">8 x 10</string>
+    <string name="question_80">8 x 11</string>
+    <string name="question_81">8 x 12</string>
+
+    <string name="question_82">9 x 9</string>
+    <string name="question_83">9 x 10</string>
+    <string name="question_84">9 x 11</string>
+    <string name="question_85">9 x 12</string>
+
+    <string name="question_86">10 x 10</string>
+    <string name="question_87">10 x 11</string>
+    <string name="question_88">10 x 12</string>
+
+    <string name="question_89">11 x 11</string>
+    <string name="question_90">11 x 12</string>
+
+    <string name="question_91">12 x 12</string>
+    <string name="todo">TODO</string>
+
+
+</resources>
+
